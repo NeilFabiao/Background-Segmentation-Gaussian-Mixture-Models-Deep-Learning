@@ -2,6 +2,7 @@
 
 The Mixture of Gaussian’s or mostly mentioned as Gaussian mixture models is a probabilistic statistical technique that can be used for image segmentation. Implementations and improvements of this approach can be seen on the paper by [4] and [5].
 
+The code present on the repo focuses on GMM and the report looks at the comparison between GMM probabilistic approach and U-Net deep learning approach.
 
 ### Visualization of Steps ###
 
@@ -50,3 +51,4 @@ mixture model.
 
 * Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com ✌🏾
 
+![](https://komarev.com/ghpvc/?username=neilCV120&color=blue)
