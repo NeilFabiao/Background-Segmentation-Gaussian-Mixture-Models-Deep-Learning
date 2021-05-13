@@ -51,4 +51,4 @@ mixture model.
 
 * Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com ✌🏾
 
-![](https://komarev.com/ghpvc/?username=neilCV120&color=blue)
+![](https://komarev.com/ghpvc/?username=neilCV1210&color=blue)
