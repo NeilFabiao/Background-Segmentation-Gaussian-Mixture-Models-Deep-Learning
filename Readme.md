@@ -1,4 +1,4 @@
-# Background Segmentation Gaussian Mixture Models and U-Net #
+# Background Segmentation Gaussian Mixture Models and U-Ne #
 
 The Mixture of Gaussian’s or mostly mentioned as Gaussian mixture models is a probabilistic statistical technique that can be used for image segmentation. Implementations and improvements of this approach can be seen on the paper by [4] and [5].
 
@@ -13,7 +13,7 @@ This project was done using python (jupyter-notebook), and in the Project_GMM202
 
 * im - is the folder that has the visualization gif and other images, used in the repo and jupyter notebook.
 * dataset - folder with information provided to the students to carry out the experiments.
-* report - evidence of written work done at University level. 
+* report - evidence of written work. 
 * ComputerVisionGmmComplete2020FinSubmit.ipynb - the file containing partial code explained in the report mentioned.
 
 To run the implementations located in src simply select the 'ComputerVisionGmmComplete2020FinSubmit.ipynb' file. 
@@ -32,9 +32,9 @@ To run the implementations located in src simply select the 'ComputerVisionGmmCo
 
 1. Computer Vision Lecturer @ Wits
 
-2. Class of 2020 and 2021 @ Wits
+2. Sbusiso Mgidi
 
-3. Github and google
+3. Class of 2020 and 2021 @ Wits
 
 4. X. Jin, P. Niu and L. Liu, ”A GMM-Based Segmentation Method for
 the Detection of Water Surface Floats,” in IEEE Access, vol. 7, pp.
@@ -42,6 +42,8 @@ the Detection of Water Surface Floats,” in IEEE Access, vol. 7, pp.
 
 5. Farnoosh, R. and Zarpak, P.B., 2008. Image segmentation using Gaussian
 mixture model.
+
+6. Github and google
 
 
 ### Who do I talk to? ###
