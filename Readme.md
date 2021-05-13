@@ -1,4 +1,4 @@
-# Background Segmentation Gaussian Mixture Models and U-Net#
+#Background Segmentation Gaussian Mixture Models and U-Net#
 
 The Mixture of Gaussian’s or mostly mentioned as Gaussian mixture models is a probabilistic statistical technique that can be used for image segmentation. Implementations and improvements of this approach can be seen on the paper by [4] and [5].
 
