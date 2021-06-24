@@ -29,7 +29,7 @@ To run the implementations located in src simply select the 'ComputerVisionGmmCo
 
 `4. Will include the code for the GMM section on Github some time later in the year 👍🏾`
 
-### References###
+### References ###
 
 1. Computer Vision Lecturer @ Wits
 
@@ -49,6 +49,6 @@ mixture model.
 
 ### Who do I talk to? ###
 
-* Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com ✌🏾
+* Repo owner Neil Fabião -> @neilfabiao ✌🏾
 
 ![](https://komarev.com/ghpvc/?username=neilCV1210&color=blue)
